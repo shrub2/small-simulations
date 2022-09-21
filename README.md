@@ -1,1 +1,1 @@
-# small-simulations
+mini projects for easier visualisation
